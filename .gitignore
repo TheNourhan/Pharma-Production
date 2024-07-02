@@ -1,0 +1,23 @@
+# NetBeans specific
+/build/
+/nbproject/private/
+/nbproject/Makefile-*.mk
+build.xml
+/nbproject/configs/
+
+# NetBeans project files
+/nbproject/*.properties
+/nbproject/*.xml
+/nbproject/genfiles.properties
+/nbproject/project.xml
+
+# Compiled class files
+*.class
+
+# Compiled JAR files
+*.jar
+
+# Logs and temporary files
+*.log
+*.out
+*.err
